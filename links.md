@@ -6,6 +6,7 @@ links to important threads to grant process.
 * mix's pause and review: `%BYsRn4hZo/7tYKSlrMaYJrGEQlGYaZnhejVvMT3KV/w=.sha256`
 * kek's call for more formal process: `%eSKaY53bifzwJxbBinc2/vptgXPYR9qayA2z5WnIfeM=.sha256`
 * mix's process roles: `%JYLgY8549bDHjNcuUutxb2Z3czUWtDui9XjDcg/uaUY=.sha256`
+* announcement of this repo `%hBX8i++KWckPvASXJOMg5DFzu8mhC5wiD/OyHrhzAVo=.sha256`
 
 ## grant deciding threads
 
