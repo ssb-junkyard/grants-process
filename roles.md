@@ -9,6 +9,8 @@ The below are a couple of roles which have emerged from the past couple of round
 
 This person gets the ball rolling and keeps it rolling. They do things like start the thread which invites grants, remind people of what it means, and progress the process to the next stage (e.g. applications are closed people, what do you think?).
 
+The MC also creates and updates the HackMD for the month, which lists the proposals and their status (funded/not). For an example look [here](https://hackmd.io/0Y69zvdBRfGS7Uvv_DRZbw). 
+
 The final role of the MC is to pass the microphone to the next MC for the following month.
 
 ## Noted Adventurers (proposed fundees)
