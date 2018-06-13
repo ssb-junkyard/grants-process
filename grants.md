@@ -56,8 +56,16 @@ We will discuss the proposals for a given month as a community and decide which 
 
 We'll only make a few grants at a time, so that we can learn how it goes and improve the process later.
 
-### 3. Go for it!
-Your grant will be paid up-front (it's simpler, and we trust you). Dominic will be the main point of contact with Dfinity, and you'll organise an invoice with him. 
+### 3. Get working and get paid
+Your grant will be paid up-front (it's simpler, and we trust you). Dominic will be the main point of contact with Dfinity, and you'll organise an invoice with him.
+
+If your proposal was selected, then do this in order:
+
+* Send invoice details as a private message to @dominic, either ETH address or bank details
+ * Option A: ETH address, plus mailing address for the invoice
+ * Option B: bank name, bank address, account number, BIC/SWIFT code, plus mailing address for the invoice
+* Create a dev diary thread in the #ssbc-grants channel
+* Add your dev diary to this: %9psz2xPwGhGG7mIkTIgCEy/xX7r6uQDNQyjl0Nopiw4=.sha256
 
 **Grant requirement**: keep a Dev Diary about what you're doing
 
