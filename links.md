@@ -14,6 +14,10 @@ links to important threads to grant process.
 * december 2017 `%t6uqk6pV4p+wfSCFZpCB7XbUe2AhXPifHnxwq6hLxDI=.sha256`
 * january 2018 `%6zpLmEKpwrlUn6EmOHKv0WIDzsr8ncdKW1XoubhwzIA=.sha256`
 * february 2018 `%S9kouPjQh4w8+P2s26kW6getgpZeSKc3OhxTmXU1EcA=.sha256`
+* march 2018 `%CYa3IvNudZnsmGbMm57wUZNt8qH7vLv/VJGmWBqRX9s=.sha256`
+* april 2018 `%+zJLWIHY/NIPyiTWdDmLjUMuO3/FnPmW8yo2Gum2VXk=.sha256'
+* may 2018 `%mvLpJthmKMhheyDwKpDxGbS9C8FNwZsJR5EF6JiaOVw=.sha256`
+* june 2018 `%E+kE8SPAC65KW2PBCEdOlu1nnQjPzPJ5dgsDhNeRtPs=.sha256`
 
 ## proposals
 
@@ -57,3 +61,24 @@ links to important threads to grant process.
 * SoapDog - ssb in firefox `%OrZtPhIz2MrG3xdBrOTmqIitLuSNsVhMZnYEfIqUCv0=.sha256`
 * jolyon - developer docs `%EbEwIvXF4l/RzqCzYUhd+/sMp4ju3ex2m8nSNDUPMcg=.sha256`
 
+### march
+
+* nicohoth - an app for for sharing/publishing pictures & docs explaining how to make it `%UDaGtRS7SG+FA9oCSay5USSgIB90z819H+6yDZZNbWs=.sha256`
+* angel - a flume-view index for private messages `%6J6nl24wOkD7HGABrCPqC7TdSEEDeqb7fAKBDVDPuKQ=.sha256`
+* cameralibre - animation explanations of ssb `%g2G7fqvrsU+kPpYM9W8Ro7Xs/4J9607i8HKfUwqPY24=.sha256` (funded)
+* dominic - user invites `%TMtnvFldviDUZROq68YWjryr44hJqRgEsz39LBXXcRA=.sha256` (funded)
+* angelica - custom ssb emoji sets  `%w1wPSI8UiOtadwp/e+t7+aXoumNOjzBo8PxOF3walWE=.sha256` (funded)
+* mikey and greg - eat poop you cat `%VY4RezKK4eKOFHcrNo/LOpFzjtaZKA6fC15qu0jwYyk=.sha256` 
+* keks and cryptix - full ssb node in go `%25wD21N8VTJCScfaccdes%2FYjqqj%2FoOL1c1brh%2Bbg%2BmT28%3D.sha256` (funded)
+* corlock - annotating the p2p web `%s9DonP4Qggrz7EDXbi5MB5MWPKP3tTWNVDh0roGfSmg=.sha256`
+* grant - disaster radio `%25ec%2FAP307%2BrKLhlMH6oF%2B9bXpAP16LH2qssGE20x7nsk%3D.sha256`
+* bentflower - accessibility improvements `%25TLBgbKhJNSGliMrGUSV%2BzhNSAgaASQj0JgGNb8TzWBI%3D.sha256`
+* matt mckegg - sameas `%25AfNTpc11XqGt1%2FiSQMwzpHkgK3BhiAxSU3tTVOPcTbA%3D.sha256`
+
+### april 
+
+* matt mckegg - sameas `%E3ENcetJLue5sX+bRC52ESmyQQtPpqmLo2NUkS0U/no=.sha256`
+* matt mckegg - moderation features `%kYS6xrmtePS0zFcZVNjd+TyDSahMwlnCYPXs3ksfsqM=.sha256`
+* dinosaur - buttcloud `%HqwAsltORROCh4uyOq6iV+SsqU3OuNUevnq+5dwCqVI=.sha256`
+* luandro - local community onboarding `%BXHiadlSfT5uYEFkPe7Y8tYN+mifJX5JYiTc9og/+NY=.sha256`
+* agnel - private indexing for clients `%6iOFrw2Znrdu5vs4P/U+qTyGwEk6IkaNf7fKaAaOJIE=.sha256`
