@@ -18,6 +18,7 @@ links to important threads to grant process.
 * april 2018 `%+zJLWIHY/NIPyiTWdDmLjUMuO3/FnPmW8yo2Gum2VXk=.sha256'
 * may 2018 `%mvLpJthmKMhheyDwKpDxGbS9C8FNwZsJR5EF6JiaOVw=.sha256`
 * june 2018 `%E+kE8SPAC65KW2PBCEdOlu1nnQjPzPJ5dgsDhNeRtPs=.sha256`
+* july 2018 `%EcGxhkiZOsqK2xOUfo7Z5lDJ1nLQBvTXX/2vXc6WxfI=.sha256`
 
 ## proposals
 
@@ -58,8 +59,8 @@ links to important threads to grant process.
 ### february
 
 * johnny -  Contacts / PMs / Maps `%WqFfki+Eo0czEo/5C3aJ3kHZk4Urs1euZ743jJFtFEo=.sha256`
-* SoapDog - ssb in firefox `%OrZtPhIz2MrG3xdBrOTmqIitLuSNsVhMZnYEfIqUCv0=.sha256`
-* jolyon - developer docs `%EbEwIvXF4l/RzqCzYUhd+/sMp4ju3ex2m8nSNDUPMcg=.sha256`
+* SoapDog - ssb in firefox `%OrZtPhIz2MrG3xdBrOTmqIitLuSNsVhMZnYEfIqUCv0=.sha256` (funded) 
+* jolyon - developer docs `%EbEwIvXF4l/RzqCzYUhd+/sMp4ju3ex2m8nSNDUPMcg=.sha256` (funded)
 
 ### march
 
@@ -78,7 +79,28 @@ links to important threads to grant process.
 ### april 
 
 * matt mckegg - sameas `%E3ENcetJLue5sX+bRC52ESmyQQtPpqmLo2NUkS0U/no=.sha256`
-* matt mckegg - moderation features `%kYS6xrmtePS0zFcZVNjd+TyDSahMwlnCYPXs3ksfsqM=.sha256`
-* dinosaur - buttcloud `%HqwAsltORROCh4uyOq6iV+SsqU3OuNUevnq+5dwCqVI=.sha256`
-* luandro - local community onboarding `%BXHiadlSfT5uYEFkPe7Y8tYN+mifJX5JYiTc9og/+NY=.sha256`
+* matt mckegg - moderation features `%kYS6xrmtePS0zFcZVNjd+TyDSahMwlnCYPXs3ksfsqM=.sha256` (funded)
+* dinosaur - buttcloud `%HqwAsltORROCh4uyOq6iV+SsqU3OuNUevnq+5dwCqVI=.sha256` (funded)
+* luandro - local community onboarding `%BXHiadlSfT5uYEFkPe7Y8tYN+mifJX5JYiTc9og/+NY=.sha256` (funded)
 * agnel - private indexing for clients `%6iOFrw2Znrdu5vs4P/U+qTyGwEk6IkaNf7fKaAaOJIE=.sha256`
+
+### may
+
+* benhylau - rpi scuttlemesh workshop `%40V5F5SHwxe5NNFCCP6pL0e+8rlik5xY5QUZYQlcnww=.sha256` (funded)
+* corlock - metadocumentation for ssb projects `%pQsAJUruiVGvktcscF0xOi6eOd0TTtTkbqo/egbMH0M=.sha256` (funded)
+* gmarcos87 - blob gallery and managment tools `%R2Vg6Db/edgh8b4a6tJvA7Fv+oIzQv1u5SFF5iZdKlw=.sha256` (funded)
+* rumkin - proposal recalled `%iBZ287gSpQ5D/Aw9oC4xuWdq/qE9nN4PgnLbQ51ldss=.sha256`
+* jeswin and dimple - scuttlekit `%/0AC79/Exv9w7CZBNhT1ikOIiTqvulaIRBXIedpwo/g=.sha256`
+* iameli - dns butt `%ft9xD4nEoCHlqdfKy+7sHXZFX4bwcEpKls92IXvlrBw=.sha256`
+
+### june
+
+* alanna, zenna, dan hassan - external grants working group `%ZV986t7pA4/n++eJ9UTwo12pNgeTSnBhnZ26ij6n3sQ=.sha256` (funded)
+* cel - ssb server in c `%SQ6BGiW5AZzAxX5cscehOFdaj2Iu1kBu2keJl2ZfWS0=.sha256` (funded)
+* ev - mutable messages `%2HYP9MQRjakRMLGusj+AubtaFE9nDBrAuPT7gTfRwvA=.sha256` (funded)
+
+### july 
+
+* erick lavoie @elavoie  - new ssb-native membership management protocol `%qLI62INNk1s8dSPEugWVbVObqUazzI0uT4dmwbUlRCw=.sha256` (funded)
+* jonathan dahan @micro - improving routerless scuttlebutt `%svwPJjVI67gvTxU9qOrXiAR0qpRo+RqiLewqr2Nu8Qo=.sha256` (funded)
+* gwen bell @gb - ssblist `%HTEBgnuPkP920Q6MryMUSofrBV2SNRLvWyCYM3HgYRc=.sha256` (adjourned till august)
